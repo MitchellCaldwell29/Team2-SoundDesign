@@ -1046,7 +1046,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: b9b81b58ae7b0cf4cb3e6a96a55fef58, type: 3}
   - {fileID: 8300000, guid: 071ec71f3d9c3e84a9d51e6b41e40146, type: 3}
   output: {fileID: 1464780927372822374, guid: e4ddba75324074b40afeb465bcf08e6d, type: 2}
-  minPitch: 0.95
+  minPitch: 0.5
   maxPitch: 1.05
 --- !u!1001 &1556563049
 PrefabInstance:

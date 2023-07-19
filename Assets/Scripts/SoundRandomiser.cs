@@ -11,18 +11,18 @@ public class SoundRandomiser : MonoBehaviour
     public float minPitch = .95f;
     public float maxPitch = 1.05f; 
 
-    // Update is called once per frame
+    // Update is called once per frame 
     void Update()
     {
 
-        if (Input.GetKeyDown("space")) // change for arrow keys later 
+        if (Input.GetKeyUp("w") || Input.GetKeyUp("a") || Input.GetKeyUp("s") || Input.GetKeyUp("d")) 
         {
             PlaySound();
         }
 
     }
 
-    void PlaySound()
+    public void PlaySound()
     {
         //Randomize
         int randomClip = Random.Range (0, clips.Length);
