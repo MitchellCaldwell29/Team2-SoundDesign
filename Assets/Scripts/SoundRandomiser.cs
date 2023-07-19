@@ -20,7 +20,7 @@ public class SoundRandomiser : MonoBehaviour
             PlaySound();
         }
 
-    }
+    } 
 
     public void PlaySound()
     {
