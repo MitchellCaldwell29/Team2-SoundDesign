@@ -2997,7 +2997,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -82.096, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -174.2}
+  m_AnchoredPosition: {x: 1.5, y: -174.2}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &1923858263
@@ -3133,7 +3133,7 @@ ParticleSystem:
   m_GameObject: {fileID: 1923858261}
   serializedVersion: 8
   lengthInSec: 5
-  simulationSpeed: 1
+  simulationSpeed: 0.09
   stopAction: 0
   cullingMode: 0
   ringBufferMode: 0
