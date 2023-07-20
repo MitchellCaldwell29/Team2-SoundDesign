@@ -401,7 +401,7 @@ GameObject:
   - component: {fileID: 252559254}
   - component: {fileID: 252559253}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: Play button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1074,7 +1074,7 @@ GameObject:
   - component: {fileID: 677233097}
   - component: {fileID: 677233096}
   m_Layer: 5
-  m_Name: Button (Legacy) (2)
+  m_Name: 'Exit button '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1614,7 +1614,7 @@ GameObject:
   - component: {fileID: 940038435}
   - component: {fileID: 940038434}
   m_Layer: 5
-  m_Name: Button (Legacy) (1)
+  m_Name: Tutorial button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2204,9 +2204,9 @@ GameObject:
   - component: {fileID: 1346470740}
   - component: {fileID: 1346470739}
   - component: {fileID: 1346470742}
+  - component: {fileID: 1346470741}
   - component: {fileID: 1346470738}
   - component: {fileID: 1346470737}
-  - component: {fileID: 1346470741}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2273,7 +2273,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &1346470740
 RectTransform:
@@ -2953,8 +2953,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -89.37843}
-  m_SizeDelta: {x: 398.3, y: 168.5}
+  m_AnchoredPosition: {x: -0.437, y: -39.091}
+  m_SizeDelta: {x: 397.402, y: 65.185}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1870840838
 MonoBehaviour:
@@ -8001,7 +8001,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 54.2
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
