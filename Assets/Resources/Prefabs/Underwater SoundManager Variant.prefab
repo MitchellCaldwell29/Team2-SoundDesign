@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4693678434561071718
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3636868880962098447, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_Name
+      value: Underwater SoundManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098672, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 1464780927372822374, guid: e4ddba75324074b40afeb465bcf08e6d, type: 2}
+    - target: {fileID: 3636868880962098673, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: maxTime
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098673, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: minTime
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098673, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: clips.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098673, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: clips.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: c60a8ec8e51478045b27b29610b8cbc8, type: 3}
+    - target: {fileID: 3636868880962098673, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: clips.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 5d3da93a1e2ba0a45a01e76e2d4ccb6a, type: 3}
+    - target: {fileID: 3636868880962098673, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: clips.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: 7a8627e1ea05ecf4ab0e10260c824bae, type: 3}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.598972
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.721612
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.74923897
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098674, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: df27464652d101a40a491561b6636f67, type: 3}
