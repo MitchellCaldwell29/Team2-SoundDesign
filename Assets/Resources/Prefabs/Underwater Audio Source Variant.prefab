@@ -53,7 +53,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3162973175813241554, guid: c0e380eef0ce228439ee896f18fe523c, type: 3}
       propertyPath: m_Name
-      value: Underwater Audio Source
+      value: Underwater Audio Source Variant
       objectReference: {fileID: 0}
     - target: {fileID: 3794985117912316918, guid: c0e380eef0ce228439ee896f18fe523c, type: 3}
       propertyPath: Loop
@@ -66,6 +66,6 @@ PrefabInstance:
     - target: {fileID: 3794985117912316918, guid: c0e380eef0ce228439ee896f18fe523c, type: 3}
       propertyPath: OutputAudioMixerGroup
       value: 
-      objectReference: {fileID: 1464780927372822374, guid: e4ddba75324074b40afeb465bcf08e6d, type: 2}
+      objectReference: {fileID: 24300002, guid: 3b0934276f7e9bf4ab739f451646a4f1, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0e380eef0ce228439ee896f18fe523c, type: 3}

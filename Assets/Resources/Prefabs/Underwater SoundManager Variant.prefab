@@ -9,12 +9,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3636868880962098447, guid: df27464652d101a40a491561b6636f67, type: 3}
       propertyPath: m_Name
-      value: Underwater SoundManager
+      value: Underwater SoundManager Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3636868880962098672, guid: df27464652d101a40a491561b6636f67, type: 3}
+      propertyPath: m_Volume
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3636868880962098672, guid: df27464652d101a40a491561b6636f67, type: 3}
       propertyPath: OutputAudioMixerGroup
       value: 
-      objectReference: {fileID: 1464780927372822374, guid: e4ddba75324074b40afeb465bcf08e6d, type: 2}
+      objectReference: {fileID: 24300002, guid: 074f6b98df827994f8067fe07392721f, type: 2}
     - target: {fileID: 3636868880962098673, guid: df27464652d101a40a491561b6636f67, type: 3}
       propertyPath: maxTime
       value: 20
