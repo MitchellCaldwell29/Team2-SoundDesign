@@ -48,7 +48,7 @@ MonoBehaviour:
   clips:
   - {fileID: 8300000, guid: 7236390f17a8e49419b8d0f3d88bc440, type: 3}
   - {fileID: 8300000, guid: 55fb6f591de8dd7409e19a4cb18a8239, type: 3}
-  - {fileID: 8300000, guid: 26e8753938361634693c06dc0bdb9a3e, type: 3}
+  - {fileID: 8300000, guid: 40c5a418fc528494cb12bb5be8436b03, type: 3}
   minTime: 1
   maxTime: 20
 --- !u!82 &1246034563859309376
