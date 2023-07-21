@@ -4,6 +4,7 @@ using System.Linq;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Audio;
 
 public class plyrMovement : MonoBehaviour
 {
@@ -20,6 +21,8 @@ public class plyrMovement : MonoBehaviour
     public Animator animator;
 
     private bool canvasExists;
+
+    public AudioClip victorySound;
 
     RaycastHit lookForWall;
     // Start is called before the first frame update
@@ -52,6 +55,8 @@ public class plyrMovement : MonoBehaviour
         {
             selected = false;
             Debug.Log("Level Complete!");
+            AudioSource source = gameObject.GetComponent<AudioSource>();
+            source.Play();
             Instantiate(Resources.Load("Prefabs/endLevelTimer", typeof(GameObject)));
         }
 
