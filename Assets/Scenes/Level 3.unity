@@ -308,7 +308,8 @@ PrefabInstance:
       propertyPath: victorySound
       value: 
       objectReference: {fileID: 8300000, guid: b41814c6e5a3a3a44bb5421dadf11174, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6807615018107090728, guid: 08a7e2df6f77df24e9983caadc9a99ca, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 08a7e2df6f77df24e9983caadc9a99ca, type: 3}
 --- !u!1 &91537984 stripped
 GameObject:
@@ -2505,7 +2506,8 @@ PrefabInstance:
       propertyPath: victorySound
       value: 
       objectReference: {fileID: 8300000, guid: b41814c6e5a3a3a44bb5421dadf11174, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7182931697313052576, guid: f52d5476a2e5da445817c6ba3e791d07, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: f52d5476a2e5da445817c6ba3e791d07, type: 3}
 --- !u!1 &1904561036 stripped
 GameObject:
